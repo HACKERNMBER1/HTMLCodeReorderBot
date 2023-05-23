@@ -6,7 +6,7 @@ import requests
 
 import os
 
-TOKEN = "6164249318:AAGA0IiwiV4Rv31aCzUbLPLVWFUdrRO2Hds"
+TOKEN = "6164249318:AAHgtre5IzbTGC9Vtf_h3Zn3LtVofbu0hmc"
 
 bot = telebot.TeleBot(TOKEN)
 
