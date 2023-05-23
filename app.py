@@ -92,6 +92,6 @@ def get_remote_file_size(file_path):
 
     return 0
 
-alive()
+
 bot.infinity_polling()
 
