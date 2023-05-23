@@ -91,6 +91,6 @@ def get_remote_file_size(file_path):
             return file_size
 
     return 0
-
+bot.set_webhook("https://telebottestnew.herokuapp.com/")
 bot.infinity_polling()
 
