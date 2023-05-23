@@ -91,6 +91,7 @@ def get_remote_file_size(file_path):
             return file_size
 
     return 0
-
+bot.remove_webhook()
+alive()
 bot.infinity_polling()
 
